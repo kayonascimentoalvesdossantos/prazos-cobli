@@ -28,7 +28,6 @@
         const { useState, useMemo } = React;
         const { Search, MapPin, Filter, X, Globe, Truck, Clock, AlertCircle, ChevronDown, Package } = lucide;
 
-        // Base de Dados Integral fornecida por você
         const RAW_DATA = `ÁGUA BRANCA	AL	Interior 2	Nordeste	12
 ANADIA	AL	Interior 1	Nordeste	12
 ARAPIRACA	AL	Interior 1	Nordeste	12
