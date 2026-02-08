@@ -29,7 +29,7 @@
         const { Search, MapPin, Filter, X, Globe, Truck, Clock, AlertCircle, ChevronDown, Package } = lucide;
 
         const RAW_DATA = `ÁGUA BRANCA	AL	Interior 2	Nordeste	12
-ANADIA	AL	Interior 1	Nordeste	12
+        ANADIA	AL	Interior 1	Nordeste	12
 ARAPIRACA	AL	Interior 1	Nordeste	12
 ATALAIA	AL	Interior 1	Nordeste	12
 BARRA DE SANTO ANTONIO	AL	Interior 1	Nordeste	12
