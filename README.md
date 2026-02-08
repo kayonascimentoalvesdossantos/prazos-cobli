@@ -5432,7 +5432,7 @@ TOCANTINOPOLIS	TO	Sob Consulta	Norte	Sob Consulta
 TUPIRAMA	TO	Interior 1	Norte	10
 TUPIRATINS	TO	Interior 2	Norte	10
 WANDERLANDIA	TO	Sob Consulta	Norte	Sob Consulta
-XAMBIOA	TO	Sob Consulta	Norte	Sob Consulta`; // Encurtado para exemplo, mas você pode colar TODA a sua lista aqui entre as crases.
+XAMBIOA	TO	Sob Consulta	Norte	Sob Consulta`; 
 
         const parseData = (raw) => {
             return raw.split('\n').filter(l => l.trim()).map(line => {
